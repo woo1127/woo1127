@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+An ordinary student :man_student: that passion for **programming** :revolving_hearts:
+
+![stat](https://github-readme-stats.vercel.app/api?username=woo1127&show_icons=true&count_private=true&theme=dracula)
+
 <!--
 **woo1127/woo1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
