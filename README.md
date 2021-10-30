@@ -1,4 +1,4 @@
-### Hi there 👋 ![git](https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ)
+### Hi there 👋 <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30">
 
 An ordinary student :man_student: that passion for **programming** :revolving_hearts:
 
